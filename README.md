@@ -1,7 +1,9 @@
-> [!IMPORTANT]
-> This MCP Server is no longer being actively updated. We've shifted engineering efforts to the [built-in MCP Server that ships directly with Roblox Studio](https://create.roblox.com/docs/studio/mcp), which we recommend as the primary way to connect external AI tools to Studio going forward.
+> [!WARNING]
+> ### This MCP Server is no longer being actively developed
 > 
-> This repository will remain available as a reference implementation. We're also working towards open-sourcing the built-in MCP Server and other mechanisms to contribute to Assistant in the future — stay tuned.
+> We’ve shifted ongoing engineering investment to the [built-in MCP Server included with Roblox Studio](https://create.roblox.com/docs/studio/mcp), which we recommend as the best way to connect external AI tools going forward.
+>
+>This server’s source code and previous releases will remain available here for reference and existing workflows.
 
 
 # Quick Setup
